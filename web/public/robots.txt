@@ -1,0 +1,11 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mcp.sperax.io/sitemap.xml
+
+# LLM-friendly content
+# See llms.txt for AI/LLM-optimized content
+# https://mcp.sperax.io/llms.txt
+# https://mcp.sperax.io/llms-full.txt
