@@ -175,3 +175,7 @@ dist
 .DS_Store
 
 .cursor/
+# MCP Publisher
+.mcpregistry_*
+mcp-publisher
+mcp.tar.gz
