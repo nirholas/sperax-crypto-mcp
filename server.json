@@ -1,36 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.nirholas/sperax-crypto-mcp",
-  "description": "MCP server for SperaxOS – interact with USDs stablecoin, SPA token, veSPA governance staking, and Demeter yield farms on Arbitrum. Works with any MCP-compatible AI chatbot (Claude, ChatGPT, Cursor, etc.).",
+  "title": "SperaxOS",
+  "description": "Sperax Protocol MCP – USDs stablecoin, SPA, veSPA governance & Demeter DeFi on Arbitrum",
   "repository": {
     "url": "https://github.com/nirholas/sperax-crypto-mcp",
     "source": "github"
   },
   "version": "0.0.1",
-  "packages": [
-    {
-      "registryType": "npm",
-      "registryBaseUrl": "https://registry.npmjs.org",
-      "identifier": "@sperax/os",
-      "version": "0.0.1",
-      "runtimeHint": "node",
-      "transport": {
-        "type": "stdio"
-      },
-      "environmentVariables": [
-        {
-          "name": "SPERAX_RPC_URL",
-          "description": "Arbitrum RPC URL for Sperax Protocol interactions",
-          "isRequired": false,
-          "isSecret": false
-        },
-        {
-          "name": "PRIVATE_KEY",
-          "description": "Wallet private key for signing transactions (without 0x prefix)",
-          "isRequired": false,
-          "isSecret": true
-        }
-      ]
+  "_meta": {
+    "io.modelcontextprotocol.registry/publisher-provided": {
+      "keywords": ["sperax", "speraxos", "usds", "spa", "vespa", "demeter", "defi", "crypto", "blockchain", "web3", "arbitrum", "stablecoin", "yield", "staking", "governance", "mcp", "ai", "chatbot"],
+      "category": "DeFi"
     }
-  ]
+  }
 }
