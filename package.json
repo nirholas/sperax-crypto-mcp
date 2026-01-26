@@ -1,5 +1,5 @@
 {
-  "name": "@sperax/os",
+  "name": "@nirholas/sperax-mcp",
   "version": "0.0.1",
   "mcpName": "io.github.nirholas/sperax-crypto-mcp",
   "description": "A MCP server for SperaxOS that supports Arbitrum One with USDs, SPA, Demeter, and other popular EVM-compatible networks.",
