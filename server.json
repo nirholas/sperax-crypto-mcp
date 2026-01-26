@@ -8,6 +8,13 @@
     "source": "github"
   },
   "version": "0.0.1",
+  "icons": {
+    "light": "https://raw.githubusercontent.com/nirholas/g1t/d9a0ee206b8136472c04384905999369f198b3c9/milady.svg",
+    "dark": "https://raw.githubusercontent.com/nirholas/g1t/d9a0ee206b8136472c04384905999369f198b3c9/bg.svg"
+  },
+  "packages": {
+    "npm": "@nirholas/sperax-mcp"
+  },
   "_meta": {
     "io.modelcontextprotocol.registry/publisher-provided": {
       "keywords": ["sperax", "speraxos", "usds", "spa", "vespa", "demeter", "defi", "crypto", "blockchain", "web3", "arbitrum", "stablecoin", "yield", "staking", "governance", "mcp", "ai", "chatbot"],
