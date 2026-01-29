@@ -4,7 +4,7 @@
   <strong>Model Context Protocol Server for Sperax DeFi Ecosystem</strong>
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://arbitrum.io"><img src="https://img.shields.io/badge/network-Arbitrum%20One-blue?style=flat-square" alt="Arbitrum"/></a>
   <a href="https://www.bnbchain.org"><img src="https://img.shields.io/badge/network-BNB%20Chain-yellow?style=flat-square" alt="BNB Chain"/></a>
   <a href="https://ethereum.org"><img src="https://img.shields.io/badge/network-Ethereum-purple?style=flat-square" alt="Ethereum"/></a>
