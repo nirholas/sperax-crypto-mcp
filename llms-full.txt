@@ -1,0 +1,18 @@
+# sperax-crypto-mcp
+
+> MCP server and plugin for Sperax Protocol – USDs, SPA, veSPA & Demeter on Arbitrum and BNB Chain. Listed on Anthropic's official MCP Registry.
+
+## Overview
+
+sperax-crypto-mcp is an open-source project by nirholas. MCP server and plugin for Sperax Protocol – USDs, SPA, veSPA & Demeter on Arbitrum and BNB Chain. Listed on Anthropic's official MCP Registry.
+
+## Repository
+
+- URL: https://github.com/nirholas/sperax-crypto-mcp
+- Language: TypeScript
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.

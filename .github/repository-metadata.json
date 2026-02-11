@@ -1,0 +1,15 @@
+{
+    "name": "sperax-crypto-mcp",
+    "description": "MCP server and plugin for Sperax Protocol \u2013 USDs, SPA, veSPA & Demeter on Arbitrum and BNB Chain. Listed on Anthropic's official MCP Registry.",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/sperax-crypto-mcp",
+    "language": "TypeScript",
+    "topics": [
+        "mcp",
+        "sperax",
+        "crypto",
+        "nirholas",
+        "open-source"
+    ]
+}
