@@ -1,4 +1,4 @@
-<h1 align="center">Sperax Ecosystem Crypto & DeFI MCP Server</h1> 
+<h1 align="center">Sperax Ecosystem Crypto & DeFI MCP Server</h1>  
 
 <p align="center">
   <strong>Model Context Protocol Server for Sperax DeFi Ecosystem</strong>
